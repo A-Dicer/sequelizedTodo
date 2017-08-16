@@ -1,0 +1,76 @@
+body {
+	margin: 10px auto;
+	width: 600px;
+	box-shadow: 2px 2px 4px #000;	
+}
+
+main {
+	border-right: solid #000 1px;
+	border-left: solid #000 1px;
+	overflow: auto;
+}
+
+header {
+	border: solid #000 1px;
+	text-align: center;
+	background-color: #ccc;
+	padding: 5px;
+}
+
+footer {
+	text-align: center;
+	padding: 1px;
+	border: solid #000 1px;
+	height: 20px;
+	background-color: #ccc;
+}
+
+h2, h1, h4, h5{
+	margin: 0;
+}
+
+p {
+	padding: 0px 180px;
+	text-shadow: 2px 2px 2px #ccc;
+}
+
+li {
+	margin: 10px 2px;
+}
+
+.formHead {
+	text-align: center;
+}
+
+#done {
+	float: right;
+}
+
+#notDone {
+	float: left;
+}
+
+#addForm {
+	padding: 5px 0;
+}
+
+.listBox {
+	margin: 10px 5px;
+	width: 155px;
+	border: solid #000 1px;
+	box-shadow: 1px 1px 2px #000;
+}
+
+.boxHead {
+	text-align: center;
+	height: 30px;
+	border-bottom: solid #000 1px;
+}
+
+#ndHead {
+	background-color: #D82222;
+}
+
+#dHead {
+	background-color: #00BB39;
+}
