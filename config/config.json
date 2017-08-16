@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "root",
-    "password": "root",
+    "username": "m2zq8mciqf3e4lcp",
+    "password": "dat0nbgaqeio109u",
     "database": "TODOList_db",
-    "host": "127.0.0.1",
+    "host": "cdm1s48crk8itlnr.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "test": {
